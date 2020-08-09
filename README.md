@@ -4,7 +4,7 @@
 - PDO Connection
 - Dump SQL
 
-## Ferramentas
+## Tools
 
 * [PHP] (https://www.php.net/)
 * [MySQL] (https://www.mysql.com/)
